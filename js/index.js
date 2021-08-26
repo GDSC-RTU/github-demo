@@ -1,1 +1,1 @@
-console.log("random msg");
+console.log("Hello this is our portfolio!");
