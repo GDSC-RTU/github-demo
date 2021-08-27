@@ -6,6 +6,8 @@ This repository contains the code of a personal portfolio website created by the
 
 ### For the members of GDSC RTU Organization - 
 
+MY FIRST CONTRIBUTION
+
 1. In an empty folder, open your git-bash/terminal/powershell/.
 2. In the terminal type the following command - 
 ```
